@@ -29,16 +29,11 @@ Customer details (Customer ID, Region)
 Sales metrics (Sales, Profit, Quantity)
 Returns data
 
-👉 (Add your dataset link here if uploaded to Kaggle/GitHub)
-
 🚀 How to Use
 Download the .twbx or .twb Tableau file from this repository
 Open it using Tableau Desktop or Tableau Public
 Explore different dashboards and filters
 Interact with visuals for deeper insights
-📸 Dashboard Preview
-
-(Add screenshots of your dashboard here)
 
 📌 Key Insights
 Certain categories contribute the highest revenue
